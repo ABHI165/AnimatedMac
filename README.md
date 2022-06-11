@@ -4,4 +4,5 @@ This is an Augmented Reality Xcode project that uses Apple's newest RealityKit f
 
 # Sample 
 
-![Sample](https://github.com/ABHI165/AnimatedMac/blob/main/asserts/AnimatedMac.gif)
+![Sample](https://github.com/ABHI165/AnimatedMac/blob/main/assets/AnimatedMac.gif)
+
